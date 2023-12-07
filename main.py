@@ -1,3 +1,4 @@
+# Developed by @RawCuriosity
 __requires__= 'playsound==1.2.2'
 from win32api import *
 from win32gui import *
